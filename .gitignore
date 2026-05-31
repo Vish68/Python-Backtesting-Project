@@ -1,0 +1,26 @@
+# Environment
+.env
+.venv
+venv/
+*.pyc
+__pycache__/
+
+# Data and results
+data/
+results/
+*.csv
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
